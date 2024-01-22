@@ -1,16 +1,13 @@
 ---
 date: '3'
-title: 'Build a Spotify Connected App'
-cover: './course-card.png'
-external: 'https://www.newline.co/courses/build-a-spotify-connected-app'
-cta: 'https://www.newline.co/courses/build-a-spotify-connected-app'
+title: 'Smart Foam Roller'
+cover: './rollout.jpg'
+external: 'https://www.x.com/rolloutofficial'
 tech:
-  - React
-  - Express
-  - Spotify API
-  - Styled Components
+  - Arduino
+  - C++
+  - EE Concepts
+  - Pitching to Investors
 ---
 
-Having struggled with understanding how the Spotify OAuth flow works, I made the course I wish I could have had.
-
-Unlike tutorials that only cover a few concepts and leave you with half-baked GitHub repositories, this course covers everything from explaining the principles of REST APIs to implementing Spotify's OAuth flow and fetching API data in a React app. By the end of the course, you’ll have an app deployed to the internet you can add to your portfolio.
+This is a project I worked on a few years ago that involved creating a start up that would compete to recieve funding from the school or get axed. We ended up winning best in show receieving the maximum investment amount. This was a great introduction to engineering a simple embedded system using flexible resistors to measure stress on a roller as well as using insulated wiring to heat the foam roller.

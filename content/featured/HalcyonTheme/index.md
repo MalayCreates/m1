@@ -1,15 +1,14 @@
 ---
-date: '1'
-title: 'Halcyon Theme'
-cover: './halcyon.png'
-github: 'https://github.com/bchiang7/halcyon-site'
-external: 'https://halcyon-theme.netlify.com/'
+date: '2'
+title: 'Rust Containers'
+cover: './code.png'
+github: 'https://github.com/malaycreates/crabcan-rs'
+external: 'https://github.com/malaycreates/crabcan-rs'
 tech:
-  - VS Code
-  - Sublime Text
-  - Atom
-  - iTerm2
-  - Hyper
+  - Rust
+  - Zsh
+  - Bash
+  - Linux
 ---
 
-A minimal, dark blue theme for VS Code, Sublime Text, Atom, iTerm, and more. Available on [Visual Studio Marketplace](https://marketplace.visualstudio.com/items?itemName=brittanychiang.halcyon-vscode), [Package Control](https://packagecontrol.io/packages/Halcyon%20Theme), [Atom Package Manager](https://atom.io/themes/halcyon-syntax), and [npm](https://www.npmjs.com/package/hyper-halcyon-theme).
+A scratch build of containers similar to that of a stripped down Docker built using Rust. Currently learning Rust and exploring more about systems programming with resource allocation.
