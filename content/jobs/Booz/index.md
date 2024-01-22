@@ -7,7 +7,6 @@ range: 'June 2023 - Present'
 url: 'https://www.bah.com/'
 ---
 
-- Deliver high-quality, robust production code for a diverse array of projects for clients including Harvard Business School, Everytown for Gun Safety, Pratt Institute, Koala Health, Vanderbilt University, The 19th News, and more
-- Work alongside creative directors to lead the research, development, and architecture of technical solutions to fulfill business requirements
-- Collaborate with designers, project managers, and other engineers to transform creative concepts into production realities for clients and stakeholders
-- Provide leadership within engineering department through close collaboration, knowledge shares, and mentorship
+- Innovated on cutting-edge Air Force modeling and simulation tools to be easily accessed as a no-code/low-code environment using React, TypeScript, Python, and Go.
+- Spearheaded development for frontend with backend integration and presentation design documentation for the front end.
+- Helped implement a rework for the frontend leading to an easier development experience and maintainability.
