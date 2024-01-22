@@ -1,10 +1,10 @@
 ---
-date: '2017-12-21'
-title: 'UI Engineer Co-op'
-company: 'Apple'
-location: 'Cupertino, CA'
-range: 'July - December 2017'
-url: 'https://www.apple.com/music/'
+date: '2022-08-01'
+title: 'Research Intern'
+company: 'NASA'
+location: 'Mouintain View, CA (remote)'
+range: 'August - September 2022'
+url: 'https://www.nasa.gov'
 ---
 
 - Developed and styled interactive web applications for Apple Music using Ember and SCSS
