@@ -15,10 +15,10 @@ jobs:
   build:
     runs-on: ubuntu-latest
     steps:
-      # - name: GitHub Config
-      #   run: |
-      #     git config --global user.email "malayagarwal@outlook.com"
-      #     git config --global user.name "MalayCreates"
+      - name: GitHub Config
+        run: |
+          git config --global user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git config --global user.name "github-actions[bot]"
       - name: Checkout
         uses: actions/checkout@v2
       - name: Install dependencies
