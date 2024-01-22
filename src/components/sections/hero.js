@@ -62,14 +62,14 @@ const Hero = () => {
 
   const one = <h1>Hi, my name is</h1>;
   const two = <h2 className="big-heading">Malay Agarwal.</h2>;
-  const three = <h3 className="big-heading">I build things for the web.</h3>;
+  const three = <h3 className="big-heading">Software Engineer.</h3>;
   const four = (
     <>
       <p>
         I’m a junior software engineer specializing in creating products that matter to people. I am
         currently at{' '}
         <a href="https://bah.com/" target="_blank" rel="noreferrer">
-          Booz Allen Hamilton
+          Booz Allen Hamilton.
         </a>
       </p>
     </>
