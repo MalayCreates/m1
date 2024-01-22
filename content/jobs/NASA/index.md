@@ -7,7 +7,6 @@ range: 'August - September 2022'
 url: 'https://www.nasa.gov'
 ---
 
-- Developed and styled interactive web applications for Apple Music using Ember and SCSS
-- Built and shipped the Apple Music Extension for Facebook Messenger leveraging third-party and internal API integrations
-- Architected and implemented the user interface of Apple Music's embeddable web player widget for in-browser user authorization and full song playback
-- Contributed extensively to the creation of MusicKit JS, a public-facing JavaScript SDK for embedding Apple Music players into web applications
+- Collaborated on a pivotal project involving UAV operations in the Aleutian Islands, providing critical support to NOAA for marine life monitoring through aerial imaging and scanning.
+- Developed system to monitor historic ship data in area of operations and signify trends to aid UAS/UAV missions.
+- Addressed and resolved icing challenges during flight, demonstrating problem-solving acumen and technical expertise in adverse conditions.
