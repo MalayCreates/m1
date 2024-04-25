@@ -66,7 +66,7 @@ const Hero = () => {
   const four = (
     <>
       <p>
-        I’m a junior software engineer specializing in creating products that matter to people. I am
+        I’m a software engineer specializing in creating products that matter to people. I am
         currently at{' '}
         <a href="https://bah.com/" target="_blank" rel="noreferrer">
           Booz Allen Hamilton.
