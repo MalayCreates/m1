@@ -7,5 +7,6 @@ range: 'May 2023 - Present'
 url: 'https://va.ng.mil/Army-Guard/91st-Cyber/'
 ---
 
-- Currently serving as an Assistant S3 Officer, demonstrating proficiency in planning operations and training for the unit.
-- Pending transition to a Team Leader role overseeing a Defensive Cyber Operations team, showcasing leadership and strategic thinking in cyber defense.
+- Led technical planning and mission preparation for a 20-person cyber team, developing repeatable processes that increased readiness before mission mobilization.
+- Managed cross-functional team through complex technical training events, coordinating between intelligence, cyber, and operations personnel.
+- Assisted with Battalion-level operations and training, presenting regularly to higher leadership in the S3 shop.
