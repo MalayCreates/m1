@@ -144,11 +144,13 @@ const About = () => {
         <StyledText>
           <div>
             <p>
-              Hey there, I'm Malay Agarwal—a full stack and embedded system programmer based in
-              Arlington, VA currently working as a Full-Stack Web Engineer at{' '}
-              <a href="https://www.bah.com">Booz Allen Hamilton.</a>{' '}
+              Hey there, I'm Malay Agarwal—a full stack engineer based in Arlington, VA currently
+              working as a Solutions Engineer at <a href="https://www.c3.ai">C3.ai.</a>{' '}
             </p>
-            <p>I am looking to pursue roles in Systems, Emebedded, and/or Network Programming.</p>
+            <p>
+              I am looking to pursue Forward Deployed/Solutions Engineer and Fullstack Development
+              roles.
+            </p>
             <p>
               Currently I am learning Rust and working on building a shell and containers from
               scratch as mini learning projects.

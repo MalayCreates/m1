@@ -68,8 +68,8 @@ const Hero = () => {
       <p>
         I’m a software engineer specializing in creating products that matter to people. I am
         currently at{' '}
-        <a href="https://bah.com/" target="_blank" rel="noreferrer">
-          Booz Allen Hamilton.
+        <a href="https://c3.ai/" target="_blank" rel="noreferrer">
+          C3.ai.
         </a>
       </p>
     </>
