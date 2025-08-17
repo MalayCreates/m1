@@ -148,8 +148,7 @@ const About = () => {
               working as a Solutions Engineer at <a href="https://www.c3.ai">C3.ai.</a>{' '}
             </p>
             <p>
-              I am looking to pursue Forward Deployed/Solutions Engineer and Fullstack Development
-              roles.
+              I am looking to pursue forward deployed and fullstack roles in the defense tech space.
             </p>
             <p>
               Currently I am learning Rust and working on building a shell and containers from
