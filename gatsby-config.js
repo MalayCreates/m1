@@ -2,7 +2,7 @@ const config = require('./src/config');
 
 module.exports = {
   siteMetadata: {
-    title: 'Malay Agarwal Personal Website',
+    title: 'Malay Agarwal',
     description: 'Malay Agarwal is a software engineer!',
     siteUrl: 'https://malayagarwal.me', // No trailing slash allowed!
     image: '/og.png', // Path to your image you placed in the 'static' folder

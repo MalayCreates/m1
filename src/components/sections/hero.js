@@ -66,7 +66,7 @@ const Hero = () => {
   const four = (
     <>
       <p>
-        I’m a software engineer specializing in creating products that matter to people. I am
+        I’m a software engineer specializing in creating products that matter in defense. I am
         currently at{' '}
         <a href="https://c3.ai/" target="_blank" rel="noreferrer">
           C3.ai.
